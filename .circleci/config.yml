@@ -1,7 +1,7 @@
 version: 2.1
 
 orbs:
-  build-2secure: appdome/build-2secure@1.1.8  # Ensure this is the correct version
+  build-2secure: appdome/build-2secure@1.1.9  # Ensure this is the correct version
 
 workflows:
   version: 2
