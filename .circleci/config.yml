@@ -12,4 +12,4 @@ workflows:
           build-with-logs: true
           google-play-signing: true  # Ensure this is either true or false
           runner: "ANDROID_AUTO_SIGNING"
-          team-id: "dsfsdfsdf"  # Replace with your actual Appdome team ID
+          team-id: "46002310-7cab-11ee-bfde-d76f94716e7a"  # Replace with your actual Appdome team ID
