@@ -10,6 +10,6 @@ workflows:
       - build-2secure/appdome_runner:
           appFile: "https://github.com/idanhauser/TestAppdome_orb_private/raw/refs/heads/main/files/TimeCard1.apk"  # Ensure this points to the actual file
           build-with-logs: true
-          google-play-signing: true  # Ensure this is either true or false
+          google-play-signing: false  # Ensure this is either true or false
           runner: "ANDROID_AUTO_SIGNING"
           team-id: "46002310-7cab-11ee-bfde-d76f94716e7a"  # Replace with your actual Appdome team ID
